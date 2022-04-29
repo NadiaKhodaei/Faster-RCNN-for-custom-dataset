@@ -1,3 +1,3 @@
 # Faster-RCNN-for-custom-dataset
-he most widely used state of the art version of the R-CNN family — Faster R-CNN was first published in 2015. 
+the most widely used state of the art version of the R-CNN family — Faster R-CNN was first published in 2015. 
 the evolution between versions was usually in terms of computational efficiency (integrating the different training stages), reduction in test time, and improvement in performance (mAP).  A region suggestion approach is used to construct "bounding boxes," or locations of probable objects in the image, in these networks. A stage for generating features for these objects, commonly using a CNN. d) A regression layer to make the coordinates of the item bounding box more precise; and e) A classification layer to forecast which class this object belongs to.
